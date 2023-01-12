@@ -1,0 +1,231 @@
+body{
+    margin: 1;
+    padding: 0;
+}
+
+.search-box{
+    position: absolute;
+    background:rgba(183, 183, 183, 0.648);
+    margin-top: 210px;
+    margin-left: 36.1%;
+    padding: 10px;
+    height: 20px;
+    width: 260px;
+    border-radius: 15px 15px 15px 15px;
+    border-color: rgb(84, 84, 84);}
+
+    
+.search-txt{
+    border: none;
+    outline: none;
+    background: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+    
+}
+
+.search-box2{
+    position: absolute;
+    background:rgba(183, 183, 183, 0.674);
+    margin-top: 255px;
+    margin-left: 36.1%;
+    padding: 10px;
+    height: 20px;
+    width: 260px;
+    border-radius: 15px 15px 15px 15px;
+    border-color: rgb(84, 84, 84);}
+
+    
+.search-txt2{
+    border: none;
+    outline: none;
+    background: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.container figure.avatar {
+    width: 240px;
+    height: 700px;
+    margin-bottom: 20px;
+}
+
+.container figure.avatar img {
+    position: absolute;
+}
+
+.container figure.avatar div {
+    position: absolute;
+}
+
+.container figure.avatar p {
+    position: absolute;
+}
+
+.container figure.avatar input {
+    position: absolute;
+}
+
+.container figure.avatar button {
+    position: absolute;
+}
+
+
+
+
+.img1{
+    width: 30%;
+    height: 95vh;
+    object-fit: cover;
+}
+
+.img2{
+    width: 16%;
+    height: 33%;
+    object-fit: cover;
+    margin-left: 7%;
+    margin-top: 60px;
+}
+
+.img3{
+    width: 1.9%;
+    height: 2%;
+    object-fit: cover;
+    margin-top: 8px;
+    margin-left: 57%;
+    border-radius: 0%;
+}
+
+.box{
+    width: 30%;
+    height: 95vh;
+    padding: 0;
+    opacity: 25%;
+    background-color: orange;
+    color: orange;
+}
+
+.text1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-left: 33%;
+    color: black; 
+    line-height: 1.5;
+}
+
+.text2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: 100;
+    margin-top: 60px;
+    margin-left: 33%;   
+    margin-right: 521px;
+    color: black; 
+    background-color: rgb(239, 157, 5);
+    line-height: 1.5;
+}
+
+.text3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: 100;
+    margin-top: 280px;
+    margin-left: 33%;   
+    margin-right: 521px;
+    color: rgba(34, 34, 34, 0.616); 
+    line-height: 1.5;
+}
+
+.checkbox1{
+    margin-top: 310px;
+    margin-left: 33%;
+    width: 20px;
+    height: 12px;
+    
+}
+
+.checkbox2{
+    margin-top: 315px;
+    margin-left: 33%;
+    width: 20px;
+    height: 12px;
+}
+
+.checkbox3{
+    margin-top: 320px;
+    margin-left: 33%;
+    width: 20px;
+    height: 12px;
+}
+
+.checkbox4{
+    margin-top: 325px;
+    margin-left: 33%;
+    width: 20px;
+    height: 12px;
+}
+
+.checkbox5{
+    margin-top: 330px;
+    margin-left: 33%;
+    width: 20px;
+    height: 12px;
+}
+
+.checkbox6{
+    margin-top: 335px;
+    margin-left: 33%;
+    width: 20px;
+    height: 12px;
+}
+
+.checkbox7{
+    margin-top: 340px;
+    margin-left: 33%;
+    width: 20px;
+    height: 12px;
+}
+
+.checkbox8{
+    margin-top: 345px;
+    margin-left: 33%;
+    width: 20px;
+    height: 12px;
+}
+
+.button{
+    position: absolute;
+    top: 530px;
+    margin-left: 36.1%;
+    width: 280px;
+    height: 50px;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 20px;
+    background-color: orange;
+    cursor: pointer;
+    transition: 0.2s;
+    border: none;
+    color: white;
+}
+
+.button:hover {
+    background: rgba(248, 175, 39, 0.505);
+}
+
+
+
+
+
